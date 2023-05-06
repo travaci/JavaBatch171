@@ -14,5 +14,5 @@ public class Student {
     public void feed() {
         System.out.println("Saglikli beslenir");
     }
-
+  // Bu degisiklik yemi eklendi.
 }
